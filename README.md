@@ -6,17 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasitbinqadeer&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasitbinqadeer" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbasitbinqadeer" alt="abdulbasitbinqadeer" /></a> </p>
 
-- 🔭 I’m currently working on **CodeTerm IDE**
+-  I’m currently working on **CodeTerm IDE**
 
-- 🌱 I’m currently learning **Computer Science**
+-  I’m currently learning **Computer Science**
 
-- 👯 I’m looking to collaborate on **AI Projects**
+-  I’m looking to collaborate on **AI Projects**
 
-- 🤝 I’m looking for help with **Data**
+-  I’m looking for help with **Data**
 
-- 💬 Ask me about **Anything**
+-  Ask me about **Anything**
 
-- 📫 How to reach me **cvlised360@gmail.com**
+-  How to reach me **cvlised360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
